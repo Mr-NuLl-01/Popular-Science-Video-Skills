@@ -1,0 +1,4 @@
+[
+  {"id": "demo_01", "text": "这是一个计时演示。", "language": "Chinese", "seed": 101},
+  {"id": "demo_02", "text": "第二段保持同一条时钟。", "language": "Chinese", "seed": 102}
+]

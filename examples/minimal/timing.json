@@ -1,0 +1,8 @@
+{
+  "sample_rate": 24000,
+  "fps": "30",
+  "clips": [
+    {"id": "demo_01", "samples": 24001},
+    {"id": "demo_02", "samples": 23999}
+  ]
+}

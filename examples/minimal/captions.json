@@ -1,0 +1,7 @@
+{
+  "sample_rate": 24000,
+  "cues": [
+    {"start_sample": 0, "end_sample": 24000, "text": "这是一个计时演示。"},
+    {"start_sample": 24000, "end_sample": 48000, "text": "第二段保持同一条时钟。"}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "title": null,
+  "audience": null,
+  "target_duration_seconds": null,
+  "language": "Chinese",
+  "research_as_of": null,
+  "outputs": {"aspect_ratios": ["16:9"], "width": 1920, "height": 1080, "fps": "30", "cover_center_safe_ratio": "4:3"},
+  "narration": {"engine": null, "model_revision": null, "sample_rate": null, "voice_reference_private_path": null, "voice_rights_confirmed": false, "processing_destination": null},
+  "music": {"enabled": false, "mood": null, "rights_verified": false},
+  "subtitles": {"enabled": true, "format": "srt", "max_lines": 2, "font": null},
+  "environment": {"os": null, "python": null, "device": null, "available_disk_bytes": null},
+  "delivery": {"destination": null, "audience": null, "editable_sources_requested": true, "public_release_authorized": false},
+  "review": {"fact_checked": false, "visual_reviewed": false, "listened": false, "user_approved": false}
+}
