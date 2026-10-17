@@ -11,5 +11,6 @@
   "subtitles": {"enabled": true, "format": "srt", "max_lines": 2, "font": null},
   "environment": {"os": null, "python": null, "device": null, "available_disk_bytes": null},
   "delivery": {"destination": null, "audience": null, "editable_sources_requested": true, "public_release_authorized": false},
+  "visual_direction": {"narrative_mode": null, "core_question": null, "opening_hook": null, "visual_motifs": [], "music_cue_sheet": null, "shot_contracts": null, "reference_review_scope": []},
   "review": {"fact_checked": false, "visual_reviewed": false, "listened": false, "user_approved": false}
 }

@@ -36,6 +36,10 @@ python skills/produce-science-videos/scripts/file_manifest.py verify examples/mi
 
 Windows 可把 `/tmp/demo.srt` 等替换成自己的临时输出路径。仓库只有 `examples/minimal/` 这一个合成小案例；不依赖外部素材。生成测试文件留在临时目录，不需要提交。
 
+### 先把镜头设计清楚
+
+[镜头指导](skills/produce-science-videos/references/shot-direction.md) 把科学问题或音乐结构转成可执行的动作、景别、场景和转场，区分真实素材、新建场景、图像编辑与程序化制作。通过机位约定和实际编码帧/连续播放，检查透视、遮挡、接触和光影。反课件感依靠可见的推理与有目的的视觉变化，不靠统一加粒子或固定频率硬切。
+
 ### 使用 Qwen3-TTS 配音
 
 先读 [Qwen3-TTS 本地、云端与交接指南](skills/produce-science-videos/references/qwen3-tts.md)。其中包含环境准备、Base 声音复用、一次载入、串行补缺、短执行指令与回传清单。
@@ -52,6 +56,7 @@ Windows 可把 `/tmp/demo.srt` 等替换成自己的临时输出路径。仓库�
 |---|---|
 | 按需加载的主技能 | [SKILL.md](skills/produce-science-videos/SKILL.md) |
 | 新研究、奖项与历史资料核验 | [研究与叙事](skills/produce-science-videos/references/research-story.md) |
+| 镜头叙事、音乐结构、机位与空间连续性 | [镜头指导](skills/produce-science-videos/references/shot-direction.md) |
 | 画面、音乐、字幕、封面 | [声音与视觉](skills/produce-science-videos/references/audio-visual.md) |
 | Qwen3-TTS 部署和配音交接 | [Qwen3-TTS](skills/produce-science-videos/references/qwen3-tts.md) |
 | 样本时钟、缓存与中断恢复 | [生产与存储](skills/produce-science-videos/references/production-storage.md) |

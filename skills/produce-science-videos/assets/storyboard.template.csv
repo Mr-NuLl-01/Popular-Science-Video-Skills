@@ -1,1 +1,1 @@
-id,narration,evidence_ids,initial_state,visible_action,retained_result,visual_kind,asset_ids,subtitle_text,transition,audio_notes,review_status
+id,narration,evidence_ids,initial_state,visible_action,retained_result,visual_kind,asset_ids,subtitle_text,transition,audio_notes,review_status,viewer_question,shot_purpose,shot_scale,camera_contract,continuity_anchors,music_cue,production_method,risk_check_times
